@@ -1,5 +1,5 @@
 # Simple-Dice-Website
-Inspiration: The Complete 2022 Website Development Bootcamp by Angela Wu on Udemy
+Inspiration: The Complete 2022 Website Development Bootcamp by Angela Yu on Udemy
 
 This repository contains the Website I created with Angela's guidance, as well as, my personal notes while learning about concepts such as
 
